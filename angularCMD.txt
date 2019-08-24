@@ -1,0 +1,5 @@
+1. ng new name (create project)
+2. code . (show project in IDE)
+3. ng serve --open (run server project)
+4. ng generate component name (create component)
+5. ng generate service name (create class service)
